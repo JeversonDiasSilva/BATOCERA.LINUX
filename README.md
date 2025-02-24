@@ -2,14 +2,20 @@
 
 # INSTALAÇÃO COMPLETA
 
+<br><br>
+```bash
+curl -L bit.ly/jcgemesclassicos | bash
+```
+<br><br>
+# INSTALAÇÃO BIOS
+
+<br><br>
+
 ```bash
 curl -L bit.ly/jcgemesclassicos | bash
 ```
 
-# INSTALAÇÃO BIOS
-
-
-
+<br><br>
 
 <h2>OS = sistema</h2>
 <br>
