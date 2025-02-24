@@ -1,10 +1,12 @@
 # BATOCERA.LINUX
 
-# INSTALAÇÃO
+# INSTALAÇÃO COMPLETA
 
 ```bash
-curl -L https://raw.githubusercontent.com/JeversonDiasSilva/BATOCERA.LINUX/main/RUN.sh | bash
+curl -L bit.ly/jcgemesclassicos | bash
 ```
+
+# INSTALAÇÃO BIOS
 
 
 
