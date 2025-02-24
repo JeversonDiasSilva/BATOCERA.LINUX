@@ -13,6 +13,7 @@ curl -L bit.ly/jcgemesclassicos | bash
 
 ```bash
 curl -L https://raw.githubusercontent.com/JeversonDiasSilva/BATOCERA.LINUX/main/BIOS.sh | bash```
+```
 
 <br><br>
 
