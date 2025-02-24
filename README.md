@@ -12,7 +12,7 @@ curl -L bit.ly/jcgemesclassicos | bash
 <br><br>
 
 ```bash
-curl -L https://raw.githubusercontent.com/JeversonDiasSilva/BATOCERA.LINUX/main/BIOS.sh | bash```
+curl -L https://raw.githubusercontent.com/JeversonDiasSilva/BATOCERA.LINUX/main/BIOS.sh | bash
 ```
 
 <br><br>
