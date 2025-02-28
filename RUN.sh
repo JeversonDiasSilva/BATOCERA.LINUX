@@ -12,5 +12,5 @@ rm OS
 
 chmod +x $(pwd)/DESKTOP/desktop
 $(pwd)/DESKTOP/desktop
-cd $(pwd)/DESKTOP/
+rm -r $(pwd)/DESKTOP/
 
